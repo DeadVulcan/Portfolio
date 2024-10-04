@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DeadVulcan/Portfolio/static/css/main.28957b52.css",
-    "main.js": "/DeadVulcan/Portfolio/static/js/main.8dbb1ced.js",
-    "static/js/453.38437ed2.chunk.js": "/DeadVulcan/Portfolio/static/js/453.38437ed2.chunk.js",
-    "index.html": "/DeadVulcan/Portfolio/index.html",
-    "main.28957b52.css.map": "/DeadVulcan/Portfolio/static/css/main.28957b52.css.map",
-    "main.8dbb1ced.js.map": "/DeadVulcan/Portfolio/static/js/main.8dbb1ced.js.map",
-    "453.38437ed2.chunk.js.map": "/DeadVulcan/Portfolio/static/js/453.38437ed2.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.28957b52.css",
+    "main.js": "/Portfolio/static/js/main.294b55a9.js",
+    "static/js/453.38437ed2.chunk.js": "/Portfolio/static/js/453.38437ed2.chunk.js",
+    "index.html": "/Portfolio/index.html",
+    "main.28957b52.css.map": "/Portfolio/static/css/main.28957b52.css.map",
+    "main.294b55a9.js.map": "/Portfolio/static/js/main.294b55a9.js.map",
+    "453.38437ed2.chunk.js.map": "/Portfolio/static/js/453.38437ed2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28957b52.css",
-    "static/js/main.8dbb1ced.js"
+    "static/js/main.294b55a9.js"
   ]
 }
