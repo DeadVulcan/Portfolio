@@ -2,7 +2,7 @@
   "name": "saavik-.portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DeadVulcan/Portfolio",
+  "homepage": "https://DeadVulcan.github.io/Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
